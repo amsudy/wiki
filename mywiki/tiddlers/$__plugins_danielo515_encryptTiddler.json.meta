@@ -1,0 +1,13 @@
+author: DanieloRodrigez
+core-version: >=5.1.1
+created: 20210219065134225
+dependents: 
+description: adds the ability to encrypt single tiddlers
+list: Encrypt-Tiddler Changelog
+modified: 20210219065134225
+plugin-type: plugin
+released: 2021-01-22T07:26:57.072Z
+source: https://github.com/danielo515/TIddlywiki5-EncryptTiddlerPlugin
+title: $:/plugins/danielo515/encryptTiddler
+type: application/json
+version: 2.4

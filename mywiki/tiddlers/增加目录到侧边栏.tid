@@ -1,0 +1,20 @@
+created: 20210222084505320
+modified: 20210222085452241
+tags: tiddlywiki
+title: 增加目录到侧边栏
+tmap.id: 3105d611-a8dc-4ee9-afce-3e0379e69f10
+type: text/vnd.tiddlywiki
+
+请根据以下步骤操作：
+
+# 建立一个名为TableOfContents 的条目
+# 设置标签为$:/tags/SideBar
+# 内容为
+```
+<div class="tc-table-of-contents">
+<<toc-selective-expandable 'TableOfContents'>>
+</div>
+```
+# 添加字段caption，值为“目录”
+# 添加字段list-after，值为"$:/core/ui/SideBar/Open"
+
